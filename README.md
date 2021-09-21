@@ -1,1 +1,1 @@
-# Machine_Learning_Programming
+# Six Assignments from course of machine learning programming
